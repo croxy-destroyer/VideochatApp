@@ -1,3 +1,2 @@
-#VideoChatApp
-
-A Peer to Peer progressive video chat web app
+# VideoChatApp
+ A Peer to Peer progressive video chat web app
